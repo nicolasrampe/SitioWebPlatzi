@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/nico/Documentos/Platziwebsite/Platziwebsite.csproj": {}
+    "/home/nico/Documentos/Platzi/SitioWebPlatzi/Platziwebsite/Platziwebsite.csproj": {}
   },
   "projects": {
-    "/home/nico/Documentos/Platziwebsite/Platziwebsite.csproj": {
+    "/home/nico/Documentos/Platzi/SitioWebPlatzi/Platziwebsite/Platziwebsite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/nico/Documentos/Platziwebsite/Platziwebsite.csproj",
+        "projectUniqueName": "/home/nico/Documentos/Platzi/SitioWebPlatzi/Platziwebsite/Platziwebsite.csproj",
         "projectName": "Platziwebsite",
-        "projectPath": "/home/nico/Documentos/Platziwebsite/Platziwebsite.csproj",
+        "projectPath": "/home/nico/Documentos/Platzi/SitioWebPlatzi/Platziwebsite/Platziwebsite.csproj",
         "packagesPath": "/home/nico/.nuget/packages/",
-        "outputPath": "/home/nico/Documentos/Platziwebsite/obj/",
+        "outputPath": "/home/nico/Documentos/Platzi/SitioWebPlatzi/Platziwebsite/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/nico/.nuget/NuGet/NuGet.Config"
